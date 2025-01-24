@@ -5,7 +5,7 @@
     }
 
 .card{
-    margin: 100px auto;
+    margin: 10px auto;
     padding: 30px 20px;
     height: 500px;
     width: 400px;
@@ -50,3 +50,11 @@ box-shadow: 10px -3px 22px -1px rgba(0,0,0,0.53);
 width: 20px;
 height: 20px;
 } 
+
+
+.heading{
+    margin: 30px auto;
+   text-align: center;
+   text-shadow: 2px 2px 5px rgb(16, 126, 215);
+   font-size: larger;
+}
